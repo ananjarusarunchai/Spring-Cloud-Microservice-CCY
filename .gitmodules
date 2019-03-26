@@ -1,0 +1,3 @@
+[submodule "Spring-Cloud-Microservice-Series-NamingServer"]
+	path = Spring-Cloud-Microservice-Series-NamingServer
+	url = git@github.com:ananjarusarunchai/Spring-Cloud-Microservice-Series-NamingServer.git
