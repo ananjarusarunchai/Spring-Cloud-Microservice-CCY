@@ -1,3 +1,6 @@
 [submodule "Spring-Cloud-Microservice-Series-NamingServer"]
 	path = Spring-Cloud-Microservice-Series-NamingServer
 	url = git@github.com:ananjarusarunchai/Spring-Cloud-Microservice-Series-NamingServer.git
+[submodule "netflix-zuul-api-gateway-server"]
+	path = netflix-zuul-api-gateway-server
+	url = https://github.com/ananjarusarunchai/netflix-zuul-api-gateway-server.git
